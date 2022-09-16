@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course. Solutions
+  are provided for selected problem sets.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
